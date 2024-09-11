@@ -4,6 +4,6 @@
 <configuration>
     <typeAliases>
         <typeAlias type="com.noticestudy.board.dto.BoardDTO" alias="board"></typeAlias>
-        <typeAlias type="com.noticestudy.board.dto.BoardFileDTO" alias="boardFile"></typeAlias>
+<!--        <typeAlias type="com.noticestudy.board.dto.BoardFileDTO" alias="boardFile"></typeAlias>-->
     </typeAliases>
 </configuration>
